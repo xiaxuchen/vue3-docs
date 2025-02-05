@@ -13,7 +13,7 @@ importers:
         version: 4.0.6
     devDependencies:
       vuepress:
-        specifier: ^1.5.2
+        specifier: 1.9.10
         version: 1.9.10(@vue/compiler-sfc@3.5.13)(hogan.js@3.0.2)(lodash@4.17.21)
 
 packages:

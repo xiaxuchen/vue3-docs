@@ -4,7 +4,7 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "1.9.10"
   },
   "dependencies": {
     "vue-codemirror": "^4.0.6"
